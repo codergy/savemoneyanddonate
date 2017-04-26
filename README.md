@@ -18,6 +18,22 @@ Difficulty: Very Easy
 Savings: up to you  
 Link for [Chrome](https://chrome.google.com/webstore/detail/coupons-at-checkout/kegphgaihkjoophpabchkmpaknehfamb) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/coupons-at-checkout/)
 
+### Pack your own lunch once (or more) a month
+Difficulty: Very Easy  
+Savings: $6/meal/month
+
+### Drink water instead of soda a few times a month
+Difficulty: Very Easy  
+Savings: $1-$5/month (+ health effects)
+
+### Use price comparison sites before buying expensive stuff
+Difficulty: Very Easy  
+Savings: up to you
+
+### Buy groceries in bulk
+Difficulty: Easy  
+Savings: up to you, potentially > $100/month
+
 ### Cut the cable and use Netflix/Hulu/Amazon
 Difficulty: Easy  
 Savings: $103 - $25 = $78/month
@@ -66,6 +82,10 @@ Savings: uncertain, up to hundreds per month
 Difficulty: Medium to Hard  
 Savings: uncertain, up to hundreds per month  
 [Link](https://www.sofi.com/)
+
+### Quit smoking, heavy drinking and gambling
+Difficulty: Hard  
+Savings: up to hundreds (+ health effects)
 
 <hr>
 
