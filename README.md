@@ -2,12 +2,13 @@
 
 ## Table of Contents
 
-- [Ways of Saving Money Effortlessly](https://github.com/codergy/savemoneyanddonate#ways-of-saving-money-effortlessly)
-- [Potential savings](https://github.com/codergy/savemoneyanddonate#potential-savings)
+1. [Ways of Saving Money Effortlessly](https://github.com/codergy/savemoneyanddonate#save-money-effortlessly)
+2. [Potential savings](https://github.com/codergy/savemoneyanddonate#potential-savings)
+3. [Donations](https://github.com/codergy/savemoneyanddonate#donations)
 
 <hr>
 
-## Ways of Saving Money Effortlessly
+## 1. Save Money Effortlessly
 
 ### Drink less coffee at fancy places
 Difficulty: Very Easy  
@@ -89,6 +90,10 @@ Savings: up to hundreds (+ health effects)
 
 <hr>
 
-## Potential savings
+## 2. Potential savings
 - Monthly: 78 + 10 + 20 + 4 + 10 + 4 + (10 if you have student debt) + 25 = $151 (or $161)
 - Yearly: $151 (or $161) X 12 = $1,812 (or $1,932)
+
+<hr>
+
+## 3. Donations
