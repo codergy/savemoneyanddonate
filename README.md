@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-1. [Ways of Saving Money Effortlessly](https://github.com/codergy/savemoneyanddonate#save-money-effortlessly)
-2. [Potential savings](https://github.com/codergy/savemoneyanddonate#potential-savings)
-3. [Donations](https://github.com/codergy/savemoneyanddonate#donations)
+1. [Save Money Effortlessly](https://github.com/codergy/savemoneyanddonate#1-save-money-effortlessly)
+2. [Potential Savings](https://github.com/codergy/savemoneyanddonate#2-potential-savings)
+3. [Best Charities](https://github.com/codergy/savemoneyanddonate#3-best-charities)
 
 <hr>
 
@@ -90,10 +90,10 @@ Savings: up to hundreds (+ health effects)
 
 <hr>
 
-## 2. Potential savings
+## 2. Potential Savings
 - Monthly: 78 + 10 + 20 + 4 + 10 + 4 + (10 if you have student debt) + 25 = $151 (or $161)
 - Yearly: $151 (or $161) X 12 = $1,812 (or $1,932)
 
 <hr>
 
-## 3. Donations
+## 3. Best Charities
