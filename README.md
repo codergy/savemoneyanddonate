@@ -1,4 +1,4 @@
-# Save Money Effortlesly and Save One Life a Year
+# Save Money the Easy Way and Save One Life a Year
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@
 
 <hr>
 
-## 1. Save Money Effortlessly
+## 1. Save Money in a (mostly) Effortless Way
 
 ### Drink less coffee at fancy places
 **Difficulty:** Very Easy  
@@ -91,8 +91,30 @@ Link for [Chrome](https://chrome.google.com/webstore/detail/coupons-at-checkout/
 <hr>
 
 ## 2. Potential Savings
+
 - Monthly: 78 + 10 + 20 + 4 + 10 + 4 + (10 if you have student debt) + 25 = $151 (or $161)
 - Yearly: $151 (or $161) X 12 = $1,812 (or $1,932)
+
+| Method                 | Savings/month | Savings/year | Difficulty   |
+| ---------------------- |--------------:| ------------:| ------------:|
+| Less coffee            |         $4    |          $48 | Very Easy    |
+| Use plugin             |     $x-$xx    |     $xx-$xxx | Very Easy    |
+| Pack your lunch        |         $6    |          $72 | Very Easy    |
+| Drink water            |      $1-$5    |      $12-$60 | Very Easy    |
+| Use price comp. sites  |     $x-$xx    |     $xx-$xxx | Very Easy    |
+| Groceries in bulk      |     $x-$xx    |     $xx-$xxx |      Easy    |
+| Cut cable              |        $78    |         $936 |      Easy    |
+| Reduce internet bill   |        $10    |         $120 |      Easy    |
+| Reduce mobile bill     |        $20    |         $240 |      Easy    |
+| Reduce car insurance   |    $10-$12    |    $120-$144 |      Easy    |
+| Reduce home insurance  |     $4-$16    |     $48-$192 |      Easy    |
+| Reduce acc. fees       |        $25    |         $300 |    Medium    |
+| Switch to Vanguard     |    $x-$xxx    |   $xx-$x,xxx |    Medium    |
+| Refinance student loan |   $10-$100    |  $120-$1,200 |    Medium    |
+| Pay off high int. debt |    $x-$xxx    |   $xx-$x,xxx |    Medium    |
+| Refinance mortgage     |   $xx-$xxx    |  $xxx-$x,xxx | Medium-Hard  |
+| Quit smoking           |   $xx-$xxx    |  $xxx-$x,xxx |      Hard    |
+
 
 <hr>
 
