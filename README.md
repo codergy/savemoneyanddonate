@@ -1,8 +1,10 @@
 # Save Money the Easy Way and Save One Life a Year
 
+<img src="https://image.freepik.com/free-icon/piggy-bank-with-dollar-coin_318-37770.jpg" alt="Saving Money" width="8%"><img src="https://image.flaticon.com/icons/svg/60/60682.svg" alt="arrow" width="5%"><img src="https://www.againstmalaria.com/images/logo_AMF.gif" alt="Against Malaria" width="7%">
+
 ## Table of Contents
 
-1. [Save Money Effortlessly](https://github.com/codergy/savemoneyanddonate#1-save-money-effortlessly)
+1. [Save Money](https://github.com/codergy/savemoneyanddonate#1-save-money-effortlessly)
 2. [Potential Savings](https://github.com/codergy/savemoneyanddonate#2-potential-savings)
 3. [Best Charities](https://github.com/codergy/savemoneyanddonate#3-best-charities)
 
@@ -84,16 +86,13 @@ Link for [Chrome](https://chrome.google.com/webstore/detail/coupons-at-checkout/
 **Savings:** uncertain, up to hundreds per month  
 [Link](https://www.sofi.com/)
 
-### Quit smoking, heavy drinking and gambling
+### Quit smoking, excessive drinking and gambling
 **Difficulty:** Hard  
 **Savings:** up to hundreds (+ health effects)
 
 <hr>
 
 ## 2. Potential Savings
-
-- Monthly: 78 + 10 + 20 + 4 + 10 + 4 + (10 if you have student debt) + 25 = $151 (or $161)
-- Yearly: $151 (or $161) X 12 = $1,812 (or $1,932)
 
 | Method                 | Savings/month | Savings/year | Difficulty   |
 | ---------------------- |--------------:| ------------:| ------------:|
@@ -114,10 +113,14 @@ Link for [Chrome](https://chrome.google.com/webstore/detail/coupons-at-checkout/
 | Pay off high int. debt |    $x-$xxx    |   $xx-$x,xxx |    Medium    |
 | Refinance mortgage     |   $xx-$xxx    |  $xxx-$x,xxx | Medium-Hard  |
 | Quit smoking           |   $xx-$xxx    |  $xxx-$x,xxx |      Hard    |
-
+| **Total Savings**\*    | **$158-$176** | **$1,896-$2,112** |    **Easy**    |
+  
+\* Sum of lines where there are exact amounts (except student loan) 
 
 <hr>
 
 ## 3. Best Charities
 
-[Give Well](http://www.givewell.org/)
+- [Give Well](http://www.givewell.org/)
+- [Against Malaria Foundation](https://www.againstmalaria.com/default.aspx)
+- [Kiva.org](https://www.kiva.org/)
