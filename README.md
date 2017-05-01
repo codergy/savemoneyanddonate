@@ -1,5 +1,7 @@
 # Save Money the Easy Way and Save One Life a Year
 
+## "For $3,340, you can save a life right now."
+
 <img src="https://image.freepik.com/free-icon/piggy-bank-with-dollar-coin_318-37770.jpg" alt="Saving Money" width="8%"><img src="https://image.flaticon.com/icons/svg/60/60682.svg" alt="arrow" width="5%"><img src="https://www.againstmalaria.com/images/logo_AMF.gif" alt="Against Malaria" width="7%">
 
 ## Table of Contents
@@ -11,6 +13,8 @@
 <hr>
 
 ## 1. Save Money in a (mostly) Effortless Way
+
+**(In order of difficulty)**  
 
 ### Drink less coffee at fancy places
 **Difficulty:** Very Easy  
