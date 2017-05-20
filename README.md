@@ -58,7 +58,7 @@ Link for [Chrome](https://chrome.google.com/webstore/detail/coupons-at-checkout/
 ### Reduce car insurance bill by a measly 10%
 **Difficulty:** Easy  
 **Savings:** $10-12/month  
-[Link](https://www.nerdwallet.com/insurance/compare-car-insurance-rates)
+[Link](https://www.nerdwallet.com/insurance/compare-car-insurance-rates) or [Link](https://geico.com)
 
 ### Reduce home insurance fees by a measly 10%
 **Difficulty:** Easy  
