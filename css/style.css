@@ -1,0 +1,154 @@
+body {
+  font-family: Roboto;
+}
+
+.flex-container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  margin: auto;
+  padding: 20px 50px 40px 50px;
+  background: rgb(192, 224, 192);
+  text-align: center;
+  border-radius: 10px;
+  max-width: 750px;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+.subtitle {
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.source-link {
+  margin-left: 10px;
+  padding: 2px 5px 0 5px;
+  background: green;
+  font-size: 14px;
+  color: white;
+  text-decoration: none;
+}
+
+.explanation {
+  padding: 20px 30px;
+  font-size: 18px;
+  background: rgb(224, 255, 224);
+  border-radius: 10px;
+}
+
+.the-button {
+  margin-top: 40px;
+  padding: 3px 20px 5px 20px;
+  color: #339933;
+  background: rgb(224, 255, 224);
+  font-size: 28px;
+  font-weight: 900;
+  letter-spacing: 1px;
+  border: 1px solid #555;
+  border-radius: 3px;
+  box-shadow: 3px 3px 5px #555;
+}
+
+.the-button:hover {
+  background: #339933;
+  color: rgb(224, 255, 224);
+  text-shadow: none;
+  border: 1px solid #555;
+}
+
+.small-container {
+  margin: auto;
+  padding: 20px 50px 40px 50px;
+  background: rgb(192, 224, 192);
+  text-align: center;
+  border-radius: 10px;
+  max-width: 750px;
+}
+
+.questions-container {
+  padding: 20px;
+  font-size: 18px;
+  background: rgb(224, 255, 224);
+  border-radius: 10px;
+}
+
+.question-title {
+  margin-bottom: 10px;
+  font-size: 23px;
+  font-weight: 700;
+  text-align: left;
+  transform: rotate( 0.5deg);
+}
+
+.difficulty {
+  margin-left: 10px;
+  padding: 3px 5px 5px 5px;
+  color: white;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.difficulty-Pieceofcake {
+  background: green;
+}
+
+.difficulty-Easy {
+  background: rgba(0,100,255,0.9);
+}
+
+.difficulty-Medium {
+  background: rgba(196,180,6,0.9);
+}
+
+.difficulty-Hard {
+  background: red;
+}
+
+.question-explanation {
+  margin-left: 5px;
+  padding-left: 10px;
+  font-weight: 400;
+  text-align: left;
+  border-left: 5px solid rgb(92, 124, 92);
+}
+
+.icansave {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.question-input {
+  margin: 0 5px;
+  padding: 3px 10px 5px 10px;
+  width: 50px;
+  font-size: 16px;
+  font-weight: 900;
+  border: 1px solid #333;
+}
+
+.next-button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.divider:not(:last-child) {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 5px;
+}
+
+.divider:last-child {
+  display: none;
+}
